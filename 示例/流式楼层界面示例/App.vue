@@ -15,7 +15,11 @@
 
 <script setup lang="ts">
 import { injectStreamingMessageContext } from '@util/streaming';
+<<<<<<< HEAD
 import RoleplayOptions from '../../src/前端界面示例/选择框.vue';
+=======
+import RoleplayOptions from '../前端界面示例/选择框.vue';
+>>>>>>> 4a9344276d925a83e32726c58b9b05debdf4a8ad
 import Segment from './分段.vue';
 import SearchBar from './搜索框.vue';
 import Highlighter from './高亮.vue';
